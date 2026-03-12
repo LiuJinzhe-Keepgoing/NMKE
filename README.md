@@ -7,9 +7,3 @@ In addition, if you have urgent usage needs, you can still refer to the followin
 For requirements related to neuron attribution, you can directly use neuron-attribution (https://github.com/zepingyu0512/neuron-attribution). It is compatible with the core attribution logic of this project and can seamlessly connect with the open-sourced code.
 If you encounter any issues with code reproduction, please leave a message in the Issue section of the project repository, and we will assist you with reproduction promptly!
 
-
-@inproceedings{liuedit,
-  title={Edit Less, Achieve More: Dynamic Sparse Neuron Masking for Lifelong Knowledge Editing in LLMs},
-  author={Liu, Jinzhe and Sun, Junshu and Shen, Shufan and Yang, Chenxue and Wang, Shuhui},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems}
-}
